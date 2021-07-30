@@ -1,3 +1,4 @@
+Important
 LIKE Operator					Description
 WHERE CustomerName LIKE 'a%'	Finds any values that start with "a"
 WHERE CustomerName LIKE '%a'	Finds any values that end with "a"
